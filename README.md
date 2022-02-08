@@ -1,4 +1,4 @@
-# eda-aws-super-heroes
+# Exploratory Data Analysis on Super Heroes Dataset Using AWS Services
 
 Querying using **PyAthena**, analyzing and visualizing queries. Creating dashboards and fast graphics using **QuickSight**. 
 
